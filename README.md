@@ -1,4 +1,5 @@
 # MicroBlaze_UART
+An example of using LabVIEW FPGA to program an FPGA that uses a MicroBlaze soft-core processor with a UART to communicate between LabVIEW FPGA and the MicroBlaze.
 
 # Requirements
 * LabVIEW 2017 (32-bit)
