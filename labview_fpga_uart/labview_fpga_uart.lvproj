@@ -470,11 +470,11 @@ HT-UART_TX"ControlLogic=0;NumberOfElements=1029;Type=1;ReadArbs=Arbitrate if Mul
    <CLIPDeclarationCategory name="User Defined">
       <CLIPDeclaration name="UserRTL_d_microblaze_wrapper">
          <DeclarationPaths>
-            <Absolute>E:\git\MicroBlaze_UART\labview_fpga_uart\UserRTL_d_microblaze_wrapper.xml</Absolute>
+            <Absolute>Z:\work\git\fpganow\MicroBlaze_UART\labview_fpga_uart\UserRTL_d_microblaze_wrapper.xml</Absolute>
             <MD5>6f20964c5a6414f657d88d1ff931e226</MD5>
-            <RelativeToLabVIEW>E:\git\MicroBlaze_UART\labview_fpga_uart\UserRTL_d_microblaze_wrapper.xml</RelativeToLabVIEW>
-            <RelativeToNiPubDocs>E:\git\MicroBlaze_UART\labview_fpga_uart\UserRTL_d_microblaze_wrapper.xml</RelativeToNiPubDocs>
-            <RelativeToNiSharedDir>E:\git\MicroBlaze_UART\labview_fpga_uart\UserRTL_d_microblaze_wrapper.xml</RelativeToNiSharedDir>
+            <RelativeToLabVIEW>Z:\work\git\fpganow\MicroBlaze_UART\labview_fpga_uart\UserRTL_d_microblaze_wrapper.xml</RelativeToLabVIEW>
+            <RelativeToNiPubDocs>Z:\work\git\fpganow\MicroBlaze_UART\labview_fpga_uart\UserRTL_d_microblaze_wrapper.xml</RelativeToNiPubDocs>
+            <RelativeToNiSharedDir>Z:\work\git\fpganow\MicroBlaze_UART\labview_fpga_uart\UserRTL_d_microblaze_wrapper.xml</RelativeToNiSharedDir>
             <RelativeToProject>UserRTL_d_microblaze_wrapper.xml</RelativeToProject>
             <Valid>true</Valid>
          </DeclarationPaths>
