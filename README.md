@@ -3,9 +3,9 @@ An example of using LabVIEW FPGA to program an FPGA that uses a MicroBlaze soft-
 
 # YouTube Demonstrations
 * Generate the code from this repository
-  * https://www.youtube.com/edit?o=U&video_id=Sg6snrIV0T0
+  * https://youtu.be/Sg6snrIV0T0
 * Running it on actual hardware
-  * https://www.youtube.com/edit?o=U&video_id=mX2Azog-9H8
+  * https://youtu.be/mX2Azog-9H8
 
 
 # Requirements
